@@ -29,7 +29,7 @@ public class Utility
 
 
         //Load xml
-        XDocument xdoc = XDocument.Load("D:\\SkyDrive\\Documents\\Code\\livingscience.com\\site\\App_Data\\Testimonials.xml");
+        XDocument xdoc = XDocument.Load("D:\\GitHub\\LivingScienceWeb\\site\\App_Data\\Testimonials.xml");
 
         var testimonials = from r in xdoc.Descendants("Testimonial")
                            select new
