@@ -28,7 +28,7 @@
                                         <div class="caption">
                                             <strong>Lance Davis <br />
                                             6th &amp; 7th grade Math</strong>
-                                            <p>words to tell about Mr. D</p>
+                                            <p>I was trained as a teacher in Africa.  The English system of education mandated that if I were handed a class to teach, as long as I could understand the content to be taught, I should be able to use good principles and practices in delivering an exciting, valuable and challenging lesson.  I love teaching to “kids”, young or old.  Watching the light go on as a math student says, “Oh, I get it!”, or seeing a real life-change in one of our Servant Leaders is still one of my favorite experiences.</p>
                                         </div>
                            </div></div></li>
 

@@ -19,7 +19,7 @@
                                         <figure><img src="img/LS/Logo141by141size.png" alt=""></figure>
                                         <div class="caption">
                                             <strong>Course Overview</strong>
-                                            <p>...words about courses....</p>
+                                            <p>...click below to see more....</p>
                                             
                                             <a href="CourseOverview.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                                         </div>
@@ -27,7 +27,32 @@
                                 </div>
                             </li>
 
-                            
+                            <li>
+                                <div class="thumb-pad5">
+                                    <div class="thumbnail">
+                                        <figure><img src="img/LS/Logo141by141size.png" alt=""></figure>
+                                        <div class="caption">
+                                            <strong>STEM Overview</strong>
+                                            <p>...click below to see more....</p>
+                                            
+                                            <a href="STEMOverview.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="thumb-pad5">
+                                    <div class="thumbnail">
+                                        <figure><img src="img/LS/Logo141by141size.png" alt=""></figure>
+                                        <div class="caption">
+                                            <strong>STEM Classes</strong>
+                                            <p>...click below to see more....</p>
+                                            
+                                            <a href="STEMClasses.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
 
                             <li>
                                 <div class="thumb-pad5">

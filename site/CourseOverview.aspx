@@ -13,7 +13,8 @@
         <article class="span8 pull-left">
             <h3>Course Overview</h3>
             <p><img title="lsx_headers_academics2.jpg" src="img/LS/lsx_headers_academics2.jpg"/></p>
-            
+            <p>&nbsp;</p>
+
             <p>Living Science offers a full complement of courses for homeschooled students.  All students are required
              to take at least one science course, but may sign up for additional classes of their choosing.  We do 
              provide a recommended sequence of study by grade level to assist you in constructing your child’s individual program.</p>
@@ -23,8 +24,8 @@
             participate in STEM programs excel at problem solving and logic and are typically more self-motivated 
             in their studies.    Courses are priced by individual classes or can be bundled as STEM with a discount.  
             Additionally, siblings are eligible for discounts.</p>
-
-            <a target="_blank" href="resources/Courses-Overview-2013-2014.pdf" class="btn btn-primary"><span>Courses Overview 2013-2014</span><img src="img/more_arrow.png" alt=""></a>
+            <p>&nbsp;</p>
+            <a target="_blank" href="/site/default.aspx" class="btn btn-primary"><span>Course Overview - COMING SOON</span><img src="img/more_arrow.png" alt=""></a>
 
 
         </article>

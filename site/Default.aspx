@@ -25,7 +25,7 @@
                 <li><a href="/site/STEMOverview.aspx#math">Math</a></li>
                 <li><a href="VideoPlayer.aspx?VideoID=4s-ea0F0wIo">What we believe</a></li>
                 <li><a href="VideoPlayer.aspx?VideoID=3axUWMcTSkk">Overview</a></li>
-                <li><a href="VideoPlayer.aspx?VideoID=iKkjXX-rceA">STEM Awards</a></li>
+                <li><a href="/site/News.aspx">STEM Awards</a></li>
                 <li><a href="https://www.renweb.com/rwlogin/ParentsWeb-Login.aspx?District=LS-GA">RenWeb Login</a></li>
                 <li><a href="WhyLivingScience.aspx">Why Living Science?</a></li>
 
@@ -50,7 +50,7 @@
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon1.png" alt=""><p>Why Living Science</p></div>
                                 <p class="marg"><strong>Discipleship from the top down, School trips, and a “Safe” Environment for learning</strong></p>
-                                <p class="marg1">Our staff models the Christian life for all students through God-honoring speech and actions, class devotions, and prayer.  Our parents assist the staff in guiding students toward appropriate Christian behavior both at school and at home.  Our Servant Leader program seeks to mold high school students into strong Christian leaders who both mentor and serve our younger students on campus and on the middle school Expedition.  Younger students look up to the Servant Leaders and seek to emulate them.</p>
+                                <p class="marg1">Discipleship is modeled from the top down beginning with the staff.  We have a “safe” environment and instruct from a biblical world view, teaching to all learning styles.   Our expeditions and field trips focus on revealing the fingerprint of God in every facet of life.  Education is preparation for Life!</p>
                                 <a href="/site/WhyLivingScience.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
 
@@ -59,14 +59,14 @@
 
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon2.png" alt=""><p>Our approach</p></div>
-                                <p class="marg"><strong>Our approach is unique.</strong></p>
-                                <p class="marg1">  To create an environment that encourages students to move beyond academic excellence, we have consciously woven educational components into the Living Science approach that students do have access to in other programs.</p>
+                                <p class="marg"><strong>Our approach is unique.  We work from principles established 18 years ago.</strong></p>
+                                <p class="marg1">To create an environment that encourages students to move beyond academic excellence.  We teach children – not just a curriculum.  We seek to find the magnificent diamond hidden in each child, polish it and make it sparkle.  We believe that eveny child should be encouraged to do their best for the King!</p>
                                 <a href="/site/OurApproachMore.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon3.png" alt=""><p>STEM</p></div>
                                 <p class="marg"><strong>The basis of Living Science is an appreciation and understanding of science and world in which we live.  </strong></p>
-                                <p class="marg1">This understanding then opens doors, creating a natural transition to its sister disciplines technology, engineering and math (STEM).</p>
+                                <p class="marg1">This understanding then opens doors, creating a natural transition to its sister disciplines technology, engineering and math (STEM).  We believe learning should be enjoyable.  Children learn best by DOING and that each child has an opinion and deserves to be heard.</p>
                                 <a href="/site/STEMApproach.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                         </ul>
@@ -81,20 +81,20 @@
                         <ul class="list2">
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon1.png" alt=""><p>Servant Leadership</p></div>
-                                <p class="marg"><strong> Intentional discipleship creates an environment to help our students grow in Christ</strong></p>
-                                <p class="marg1">Perhaps the strongest tenet of our philosophy is our commitment to consciously bringing faith into the daily action and lives of our students. Intentional discipleship means that we explore the meaning of discipleship and create an environment to help our students grow in Christ and live as disciples, loving God, their friends, and family members as themselves.</p>
+                                <p class="marg"><strong>John Maxwell said, “Leadership is influence.  Nothing more.  Nothing less.”</strong></p>
+                                <p class="marg1">We teach Servant Leadership through Service which includes helping in a class and leading middle school students on expedition.  In the end, many of the younger students find themselves emulating and desiring to be like the Servant Leaders.  A legacy of stewardship is thus developed at a young age with our students.</p>
                                 <a href="/site/WhyLivingScience.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                             <li class="span4">
-                                <div class="title"><img src="img/page1_icon2.png" alt=""><p>Working With Parents</p></div>
-                                <p class="marg"><strong>We work with parents, not for them.</strong></p>
-                                <p class="marg1">By amplifying parental efforts necessary to raise Godly and highly educated students, Living Science is a valuable partner to families who desire a Christian-based experience for their children.</p>
+                                <div class="title"><img src="img/page1_icon2.png" alt=""><p>Partnership</p></div>
+                                <p class="marg"><strong>Our parents give us their best!  We work with parents, not for them.</strong></p>
+                                <p class="marg1">By amplifying parental efforts necessary to raise Godly and highly educated students, Living Science is a valuable partner to families who desire a Christian-based experience for their children.  Our parents get involved in every aspect of Living Science.  This is part of their family.</p>
                                 <a href="/site/PartneringWithParents.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon3.png" alt=""><p>Expeditions</p></div>
                                 <p class="marg"><strong>Excursions are an integral part of the Living Science curriculum.</strong></p>
-                                <p class="marg1">While removing the walls of the indoor classroom, we show students the Creator’s work in its purest form.</p>
+                                <p class="marg1">While removing the walls of the indoor classroom, we show students the Creator’s work in its purest form. We focus on Marine science, ecology and oceanography while using technology and engineering systems to support our experiments.</p>
                                 <a href="/site/Trips.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                         </ul>
@@ -112,15 +112,37 @@
             <div class="row">
                 <article class="span12">
                     <div class="row">
-
-
-                        <br />
-                        <br />
-                        <br />
+                        <br /><br /> <br />
 
                         <center>
-
+                        <p><strong>Hear more about our uniqueness and philosophy on education.</strong></p>
                         <iframe width="560" height="315" src="//www.youtube.com/embed/4s-ea0F0wIo" frameborder="0" allowfullscreen></iframe>
+
+                        </center>
+                        <br />
+                        <br />
+                        <br />
+
+
+                </div>
+             </article>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+<div class="main">
+    <div class="gradient">
+        <section class="container">
+            <div class="row">
+                <article class="span12">
+                    <div class="row">
+                        <br /><br /> <br />
+
+                        <center>
+                        <p><strong>Hear more about what parents and students REALLY think about Living Science.</strong></p>
+                        <iframe width="560" height="315" src="//www.youtube.com/embed/3axUWMcTSkk" frameborder="0" allowfullscreen></iframe>
 
                         </center>
                         <br />

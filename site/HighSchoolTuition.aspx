@@ -12,7 +12,7 @@
 <div class="row">
 <article class="span12 pull-left">
           
-<p><strong>High School 2013-2014 Pricing</strong></p>
+<p><strong>High School 2014-2015 Pricing</strong></p>
 <p>&nbsp;</p>
 
 <table border="1px">

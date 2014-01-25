@@ -108,7 +108,6 @@
             <p>&nbsp;</p>
 
 
-<h3>Mr. D, do you want a form here or just something they can print?  An email form is easy.</h3>
 
             <pre>
 

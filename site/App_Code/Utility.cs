@@ -90,8 +90,10 @@ public class Utility
 
         string sBody = sbBody.ToString();
 
-        MailMessage oMsg = new MailMessage("donotreply@ascdi.com", "dennis.hurst@outlook.com");
-        oMsg.Subject = "Application request";
+        MailMessage oMsg = new MailMessage("donotreply@ascdi.com", "office@livingscience.com");
+        oMsg.CC.Add("dennis.hurst@outlook.com");
+        oMsg.CC.Add("lancedavis@livingscience.com");
+        oMsg.Subject = "Application request - Living Science Web";
         oMsg.Body = sBody;
         oMsg.IsBodyHtml = false;
 

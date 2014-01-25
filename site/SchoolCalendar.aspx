@@ -19,6 +19,19 @@
             the schools in the area.  Additionally, we do not adhere to Cherokee County School System 
             closing at all times.  In case of inclement weather or other emergencies, closing information 
             will be made available via 11Alive and www.11alive.com.</p>
+            <p>&nbsp;</p>
+
+            <a href="/site/Documents/AcademicCalendar-2014-2015.pdf" target="_new" class="btn btn-primary"><span>View our complete calendar</span><img src="img/more_arrow.png" alt=""></a>
+            <p>&nbsp;</p>
+
+            <a href="/site/OpenHouse.aspx" class="btn btn-primary"><span>Attend an Open House</span><img src="img/more_arrow.png" alt=""></a>
+            
+
+
+
+
+            
+
 
         </article>
 
