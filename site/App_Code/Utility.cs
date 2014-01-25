@@ -40,6 +40,7 @@ public class Utility
                                GivenBy = r.Element("GivenBy").Value,
                                GivenOnDate = r.Element("GivenOnDate").Value,
                                VideoID = r.Element("VideoID").Value,
+                               OnPage = r.Element("OnPage").Value,
                            };
         foreach (var r in testimonials)
         {
@@ -49,8 +50,11 @@ public class Utility
             oTestimonial.TestimonialText = r.TestimonialText;
             oTestimonial.GivenBy = r.GivenBy;
             DateTime.TryParse(r.GivenOnDate, out oTestimonial.GivenOnDate);
+            
             oTestimonial.VideoID = r.VideoID;
+            oTestimonial.OnPage = r.OnPage;
             aTestimonials.Add(oTestimonial.VideoID, oTestimonial);
+            
         }
 
 
@@ -108,32 +112,70 @@ public class Utility
     }
 
 
-
-    public static string GetTestimonials(ref Dictionary<string,Testimonial> aTestimonials)
+    public static string GetTestimonials(string FilePath, ref Dictionary<string, Testimonial> aTestimonials)
     {
+        string sCurrentFile = "";
+        if (FilePath == "*")
+        {
+            sCurrentFile = ",";
+        }
+        else
+        {
+            int iFileStart = FilePath.LastIndexOf("/") + 1;
+            int iFileEnd = FilePath.LastIndexOf(".");
+            sCurrentFile = FilePath.Substring(iFileStart, iFileEnd - iFileStart);
+
+            
+
+        }
+
         StringBuilder sbTestimonials = new StringBuilder();
 
 
         sbTestimonials.Append("<h3>Testimonials</h3>");
-
+        bool bInclude = true;
         foreach (KeyValuePair<string, Testimonial> kvp in aTestimonials)
         {
-            sbTestimonials.Append("<blockquote><div>");
-            sbTestimonials.Append("<p>");
-            sbTestimonials.Append( kvp.Value.TestimonialText   );
-            sbTestimonials.Append("</p>");
-            sbTestimonials.Append("<em></em></div>");
-            sbTestimonials.Append("<p><span>");
-            sbTestimonials.Append(kvp.Value.GivenBy);
-            sbTestimonials.Append("</span></p>");
-            sbTestimonials.Append("<a href=\"/site/VideoPlayer.aspx?VideoID=");
-            sbTestimonials.Append(kvp.Value.VideoID);
-            sbTestimonials.Append("\">" + "Watch the video</a>");
-            sbTestimonials.Append("</blockquote>");
+            if (kvp.Value.OnPage.Trim() == "")
+                if (FilePath == "*")
+                    bInclude = true;            //Show everything if the FilePath is *
+                else
+                    bInclude = false;           //Else, only show specified pages  
+            else
+            {
+                if (kvp.Value.OnPage.IndexOf(sCurrentFile) > -1)
+                    bInclude = true;
+                else
+                    bInclude = false;
 
+            }
+
+            if (bInclude)
+            {
+                sbTestimonials.Append("<blockquote><div>");
+                sbTestimonials.Append("<p>");
+                sbTestimonials.Append(kvp.Value.TestimonialText);
+                sbTestimonials.Append("</p>");
+                sbTestimonials.Append("<em></em></div>");
+                sbTestimonials.Append("<p><span>");
+                sbTestimonials.Append(kvp.Value.GivenBy);
+                sbTestimonials.Append("</span></p>");
+                sbTestimonials.Append("<a href=\"/site/VideoPlayer.aspx?VideoID=");
+                sbTestimonials.Append(kvp.Value.VideoID);
+                sbTestimonials.Append("\">" + "Watch the video</a>");
+                sbTestimonials.Append("</blockquote>");
+            }
         }
 
         return sbTestimonials.ToString();
+
+
+    }
+
+
+    public static string GetTestimonials(ref Dictionary<string,Testimonial> aTestimonials)
+    {
+        return GetTestimonials("*", ref aTestimonials);
     }
 
 

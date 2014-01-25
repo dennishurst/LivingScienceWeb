@@ -14,6 +14,7 @@ public class Testimonial
     public string GivenBy;
     public DateTime GivenOnDate;
     public string VideoID;
+    public string OnPage;
 
 
 

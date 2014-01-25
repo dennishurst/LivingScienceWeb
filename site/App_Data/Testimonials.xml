@@ -1,69 +1,102 @@
-﻿<Testimonials>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Testimonials>
   <Testimonial>
-    <Headline>Living Science Named Finalist for STEM Education Award</Headline>
-    <Description>During a live webcast, Living Science Home Studies was nominated as a finalist for a STEM education award, by the Technology Association of Georgia (TAG)</Description>
-    <TestimonialText>...we have started STEM in the Middle and High School and we need to promote that, Georgia needs the jobs and we have a good idea about the students that will fill them...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>8/30/2013</GivenOnDate>
-    <VideoID>iKkjXX-rceA</VideoID>
+    <Headline>Discipleship#2 Mrs. D - Living Science Philosophy of Education</Headline>
+    <Description>Discipleship#2 Mrs. D - Living Science Philosophy of Education</Description>
+    <TestimonialText>True education is leading someone from the known to the unknown in preparation for Life.  If we do not prepare our young people for life, we have not educated them.”  “Inside every child is a diamond.  We and the parents must find the diamond and polish it so that young person can shine for Jesus.</TestimonialText>
+    <GivenBy>Penny Davis</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>4s-ea0F0wIo</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
-
-
   <Testimonial>
-    <Headline>Favorite Places 3</Headline>
-    <Description>Favorite Places #3 Blog</Description>
-    <TestimonialText>...I see a lot of young people that do not know the meaning of "Be still", everything in their lives is "hurry up"...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>11/19/2012</GivenOnDate>
-    <VideoID>XN-OUc6qOUk</VideoID>
+    <Headline>Discipleship</Headline>
+    <Description>It is hard to raise kids who have a heart for the Lord, so putting them in an environment with likeminded families makes it so much easier.</Description>
+    <TestimonialText>if you help me I will like you but if you help my kids I'll love you and that's the way I feel about Living Science</TestimonialText>
+    <GivenBy>Robert Hargreaves</GivenBy>
+    <GivenOnDate>4/27/2012</GivenOnDate>
+    <VideoID>MpqSsrDISD4</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
   <Testimonial>
-    <Headline>Favorite Places 2</Headline>
-    <Description>Mrs D's Second Blog - Wisdom for parents</Description>
-    <TestimonialText>... ...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>9/3/2012</GivenOnDate>
-    <VideoID>9A16TGD-0Vo</VideoID>
+    <Headline>Mrs. D. - Discipleship #1</Headline>
+    <Description>Educations is investigating the real world.  I believe there are three walls in the classroom.  The fourth wall is down and so the</Description>
+    <TestimonialText>Educations is investigating the real world.  I believe there are three walls in the classroom.  The fourth wall is down and so the</TestimonialText>
+    <GivenBy>Penny Davis</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>ZcpMEa6cM7U</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
   <Testimonial>
-    <Headline>Favorite Places 1</Headline>
-    <Description>Mrs D's Blog entry 1</Description>
-    <TestimonialText>... ...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>9/3/2012</GivenOnDate>
-    <VideoID>1Kvmw1oxYRA</VideoID>
+    <Headline>Mrs. D. - Discipleship #3</Headline>
+    <Description>Devotions.  We want our Servant Leaders to be ready to share what they have been reading in the Word at a moment’s notice.  However our goal is to continually stop in the middle of teaching, and reference the Lord, His fingerprint, His greatness, His creativity, and thus draw the attention of the students to the Lord more than just once at the beginning of class.</Description>
+    <TestimonialText>We want our Servant Leaders to be ready to share what they have been reading in the Word at a moment’s notice.</TestimonialText>
+    <GivenBy>Penny Davis</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>DNwAXsnvQXc</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
   <Testimonial>
-    <Headline>Mrs D's Blog entry 1</Headline>
-    <Description>Living Science Home Studies, Inc. - Promo</Description>
-    <TestimonialText>... ...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>6/25/2012</GivenOnDate>
-    <VideoID>3axUWMcTSkk</VideoID>
+    <Headline>Expeditions and Retreats 1</Headline>
+    <Description>The science was amazing!  They did work that was unbelievable.  We never did things like that!</Description>
+    <TestimonialText>The science was amazing!  They did work that was unbelievable.  We never did things like that!</TestimonialText>
+    <GivenBy>Christy Montes</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>NOQgafKcbYU</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
   <Testimonial>
-    <Headline>Paraguay Mission Trip 2012 Extended Video</Headline>
-    <Description>Paraguay Mission Trip 2012 Extended Video</Description>
-    <TestimonialText>... ...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>6/25/2012</GivenOnDate>
-    <VideoID>zriURjWAnwg</VideoID>
+    <Headline>Expeditions and Retreats 2</Headline>
+    <Description>What do you see in LS?  She said, by far this was the place that included new students more than any place she had ever been.</Description>
+    <TestimonialText>What do you see in LS?  She said, by far this was the place that included new students more than any place she had ever been.</TestimonialText>
+    <GivenBy>Christy Montes</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>N_3J9an7_tI</VideoID>
+    <OnPage></OnPage>
   </Testimonial>
-
   <Testimonial>
-    <Headline>Paraguay Mission Trip 2012</Headline>
-    <Description>Paraguay Mission Trip 2012</Description>
-    <TestimonialText>... ...</TestimonialText>
-    <GivenBy>Lance Davis</GivenBy>
-    <GivenOnDate>6/25/2012</GivenOnDate>
-    <VideoID>Mp87HABtLMA</VideoID>
+    <Headline>Expeditions and retreats #1</Headline>
+    <Description>What an incredible experience for me!  This cannot be easily duplicated</Description>
+    <TestimonialText>What an incredible experience for me!  This cannot be easily duplicated</TestimonialText>
+    <GivenBy>David Cochran</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>yBbuZUMpN1s</VideoID>
+    <OnPage>Trips</OnPage>
   </Testimonial>
-
-
+  <Testimonial>
+    <Headline>Expeditions and Retreats#2</Headline>
+    <Description>This is one of the few institutions today that goes off and does hands on teaching in such a unique way.</Description>
+    <TestimonialText>This is one of the few institutions today that goes off and does hands on teaching in such a unique way.</TestimonialText>
+    <GivenBy>David Cochran</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>GqQDUZnNZP8</VideoID>
+    <OnPage>Trips</OnPage>
+  </Testimonial>
+  <Testimonial>
+    <Headline>Expeditions and Retreats</Headline>
+    <Description>They came home exhausted, dirty and had a ball she talks about it all the time.</Description>
+    <TestimonialText>They came home exhausted, dirty and had a ball she talks about it all the time.</TestimonialText>
+    <GivenBy>Trena Hargreaves</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>V8WGxM_Z-vc</VideoID>
+    <OnPage>Trips</OnPage>
+  </Testimonial>
+  <Testimonial>
+    <Headline>Expeditions and Retreats</Headline>
+    <Description>I have found the conversations with my kids to be so much more meaningful because they are learning in such a unique way.</Description>
+    <TestimonialText>I have found the conversations with my kids to be so much more meaningful because they are learning in such a unique way.</TestimonialText>
+    <GivenBy>Ralph Freeman</GivenBy>
+    <GivenOnDate>4/28/2012</GivenOnDate>
+    <VideoID>8jmFcBCHe1w</VideoID>
+    <OnPage>Trips</OnPage>
+  </Testimonial>
 </Testimonials>
-
+<!--<Testimonial>
+          <Headline></Headline>
+          <Description></Description>
+          <TestimonialText></TestimonialText>
+          <GivenBy></GivenBy>
+          <GivenOnDate>4/28/2012</GivenOnDate>
+          <VideoID></VideoID>
+          <OnPage></OnPage>
+    </Testimonial>-->
