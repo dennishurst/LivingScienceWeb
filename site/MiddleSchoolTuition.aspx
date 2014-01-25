@@ -18,7 +18,7 @@ table.MsoTableGrid
 <div class="container padBot1"> 
 <div class="row">
 <article class="span12 pull-left">
-  <p>Elementary and Middle School 2013-2014 Pricing</p>
+  <p><strong>Elementary and Middle School 2013-2014 Pricing</strong></p>
     <p>New Enrollment</p>
    <p>Please Note:</p>
    <ul>

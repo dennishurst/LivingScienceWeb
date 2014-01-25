@@ -12,7 +12,7 @@
 <div class="row">
 <article class="span12 pull-left">
           
-<center><strong>High School 2013-2014 Pricing</strong></center>           
+<p><strong>High School 2013-2014 Pricing</strong></p>
 <p>&nbsp;</p>
 
 <table border="1px">
@@ -24,7 +24,7 @@
 </table>
 <p>&nbsp;</p>
 
-<center><strong>Basic High School Tuition Bundle Pricing:</strong></center>
+<p><strong>Basic High School Tuition Bundle Pricing:</strong></p>
 <p>&nbsp;</p>
 
 <p>Living Science is unique and well known for its “smorgasbord” approach to building a personal curriculum for each individual student.  Science is mandatory at every grade level, but in addition to that, parents may choose to add any number of other listed classes to a student’s schedule.</p>
