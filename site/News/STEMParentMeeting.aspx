@@ -6,6 +6,19 @@
         litTestimonials.Text = Utility.GetTestimonials(ref aTestimonials);
 
     }
+
+    protected void cmdSubmit_Click(object sender, EventArgs e)
+    {
+        if (Utility.SendMail(Request))
+        {
+            Response.Redirect("ThankYou.aspx");
+        }
+        else
+        {
+            Response.Redirect("Error.aspx");
+        }
+
+    }
 </script>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
@@ -113,55 +126,69 @@
             
             <p>&nbsp;</p>
 
+            <p><strong>I WOULD LIKE TO CONTRIBUTE TO THE NEW BUILDING PROCESS IN THE FOLLOWING WAY:</strong></p>
+            <p>&nbsp;</p>
+            <p>(Please place a check mark against the appropriate items)</p>
 
+            <p>MY LIVING SCIENCE STEM BUILDING COMMITMENT:</p>
+            <p>&nbsp;</p>
 
-            <pre>
+            <p>Assist in fundraising</p>
+            <ul>
+                <li><input type="checkbox" name="AssistInCoordination" /> Assist in overall coordination of fundraising activities </li>
+                <li><input type="checkbox" name="SearchingForGrants" /> Searching and applying for grants </li>
+                <li><input type="checkbox" name="SolicitingCorpSponsorship" /> Soliciting corporate sponsorship</li> 
+                <li><input type="checkbox" name="SolicitIndDonation" /> Soliciting individual donations</li>
+                <li><input type="checkbox" name="OnlinePresence" /> Assist in establishing an online presence to garner large numbers of small dollar donations (crowd-sourcing) from the Christian homeschool community.</li>
+                <li><input type="checkbox" name="PersonalDonations" /> Personal donations</li>
+                <li><input type="checkbox" name="Capital" /> Capital, Appreciated Stock, Real Estate. (Professional guidance available)</li>
+            </ul>
 
-           
-I WOULD LIKE TO CONTRIBUTE TO THE NEW BUILDING PROCESS IN THE FOLLOWING WAY:
-(Please place a check mark against the appropriate items)
-MY LIVING SCIENCE STEM BUILDING COMMITMENT:
-•	Assist in fundraising
-o	Assist in overall coordination of fundraising activities 
-o	Searching and applying for grants 
-o	Soliciting corporate sponsorship 
-o	Soliciting individual donations
-o	Assist in establishing an online presence to garner large numbers of small dollar donations (crowd-sourcing) from the Christian homeschool community.
-o	Personal donations
-o	Capital, Appreciated Stock, Real Estate. (Professional guidance available)
-•	Solicit “In-Kind” donations (labor or materials)
-o	Assist in overall coordination of In-kind donation activities
-o	Skilled labor (electrician, plumbing, HVAC, etc.)
-o	Building materials (lumber, floor coverings, paint, sheet rock, fasteners, etc.)
-o	New or lightly used furnishings (tables, chairs, desks, work benches)
-o	New or lightly used cabinets
-o	Technology (lab benches, projector screens, computers, projectors, etc.)
+            <p>&nbsp;</p>
+            
+            <p>Solicit “In-Kind” donations (labor or materials)</p>
+            <ul>
+               <li><input type="checkbox" name="Assist_In_Overall_Coordination" /> Assist in overall coordination of In-kind donation activities</li>
+               <li><input type="checkbox" name="Skilled_Labor" /> Skilled labor (electrician, plumbing, HVAC, etc.)</li>
+               <li><input type="checkbox" name="Building_Materials" /> Building materials (lumber, floor coverings, paint, sheet rock, fasteners, etc.)</li>
+               <li><input type="checkbox" name="Furnishings" /> New or lightly used furnishings (tables, chairs, desks, work benches)</li>
+               <li><input type="checkbox" name="Cabinets" /> New or lightly used cabinets</li>
+               <li><input type="checkbox" name="Technology" /> Technology (lab benches, projector screens, computers, projectors, etc.)</li>
+            </ul>
 
-Name:___________________________________________________________________________
+            <p>&nbsp;</p>
 
-E-mail address ____________________________________________________________________
+            <p>Name:  <input type="text" name="Name" /><br />
+            E-mail address <input type="text" name="EMail" /><br />
+            Mobile phone: <input type="text" name="MobilePhone" /><br />
+            </p>
 
-Mobile phone: ____________________________________________________________________
+            <p>&nbsp;</p>
 
-
-For Tax-deductible Cash Donations:
- please write to: National Christian foundation
-		In the memo, write Building Fund
-		
-Send to Mr. Lance Davis at 
-Living Science Home Studies, Inc.
-			4095 North Arnold Mill Rd
-			Woodstock, GA 30188
+            <p>For Tax-deductible Cash Donations:<br />
+            please write to: National Christian foundation<br />
+		    In the memo, write Building Fund <br />
+            <br />
+		    Send to Mr. Lance Davis at <br />
+            Living Science Home Studies, Inc. <br />
+			4095 North Arnold Mill Rd <br />
+			Woodstock, GA 30188</p>
+                 <p>&nbsp;</p>
                  
-                 </pre>
+
+                 <asp:Button ID="cmdSubmit" runat="server" Text="Submit" onclick="cmdSubmit_Click" />
+
                  </article>
+
                  <article class="span4 pull-right testim-box">
                     <asp:Literal ID="litTestimonials" runat="server"></asp:Literal>
+                
                 </article>
          </div>
     </div>
     </div>
 </div>
+
 
 
 </asp:Content>

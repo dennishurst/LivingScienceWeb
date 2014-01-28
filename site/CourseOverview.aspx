@@ -19,8 +19,7 @@
              to take at least one science course, but may sign up for additional classes of their choosing.  We do 
              provide a recommended sequence of study by grade level to assist you in constructing your child’s individual program.</p>
 
-            <p>The STEM (Science, Technology, Engineering and Math) program will be available to grades 4 through 9 
-            for the academic year 2012-2013.  Other grades will be added each year.  We find that students who 
+            <p>The STEM (Science, Technology, Engineering and Math) program will be available to grades 4th grade through high school 2014-2015.  Other grades will be added each year.  We find that students who 
             participate in STEM programs excel at problem solving and logic and are typically more self-motivated 
             in their studies.    Courses are priced by individual classes or can be bundled as STEM with a discount.  
             Additionally, siblings are eligible for discounts.</p>

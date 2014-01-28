@@ -61,7 +61,7 @@
                                 <div class="title"><img src="img/page1_icon2.png" alt=""><p>Our approach</p></div>
                                 <p class="marg"><strong>Our approach is unique.  We work from principles established 18 years ago.</strong></p>
                                 <p class="marg1">To create an environment that encourages students to move beyond academic excellence.  We teach children - not just a curriculum.  We seek to find the magnificent diamond hidden in each child, polish it and make it sparkle.  We believe that eveny child should be encouraged to do their best for the King!</p>
-                                <a href="/site/OurApproach.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                <a href="/site/OurApproachMore.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon3.png" alt=""><p>STEM</p></div>
@@ -83,7 +83,7 @@
                                 <div class="title"><img src="img/page1_icon1.png" alt=""><p>Servant Leadership</p></div>
                                 <p class="marg"><strong>John Maxwell said, &quot;Leadership is influence.  Nothing more.  Nothing less.&quot;</strong></p>
                                 <p class="marg1">We teach Servant Leadership through Service which includes helping in a class and leading middle school students on expedition.  In the end, many of the younger students find themselves emulating and desiring to be like the Servant Leaders.  A legacy of stewardship is thus developed at a young age with our students.</p>
-                                <a href="/site/WhyLivingScience.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                <a href="/site/ServantLeadership.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                             </li>
                             <li class="span4">
                                 <div class="title"><img src="img/page1_icon2.png" alt=""><p>Partnership</p></div>

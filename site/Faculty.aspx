@@ -110,7 +110,7 @@
                                             High School Engineering</strong>
                                             <p>Our children are growing up in America where the job market is challenging and competition is 
                                             going to increase.  At the same time American ingenuity is as in demand as it has ever been.   
-                                            May of the occupations that will continue to be fun, challenging, and provide a career 
+                                            Many of the occupations that will continue to be fun, challenging, and provide a career 
                                             path that will last a lifetime are in the Engineering and Technology fields.  I have worked in 
                                             Engineering, Application Development, and Information Security for the last 24 years and I believe 
                                             that our children have an amazing opportunity to enter a great career field.  I am honored to be 
