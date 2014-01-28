@@ -46,7 +46,7 @@
                                             <strong>Building Fund</strong>
                                             <p>...Building Fund....</p>
                                             
-                                            <a href="/site/BuildingFund.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                            <a href="/site/News/STEMParentMeeting.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>

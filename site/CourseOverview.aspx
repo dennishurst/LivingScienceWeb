@@ -25,7 +25,7 @@
             in their studies.    Courses are priced by individual classes or can be bundled as STEM with a discount.  
             Additionally, siblings are eligible for discounts.</p>
             <p>&nbsp;</p>
-            <a target="_blank" href="/site/default.aspx" class="btn btn-primary"><span>Course Overview - COMING SOON</span><img src="img/more_arrow.png" alt=""></a>
+            <a target="_blank" href="/site/Documents/CourseOverview2014-2015.pdf" class="btn btn-primary"><span>Course Overview</span><img src="img/more_arrow.png" alt=""></a>
 
 
         </article>

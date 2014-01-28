@@ -11,6 +11,7 @@
 
 <article class="span8 pull-left">
 
+<h3>We work with parents - not for them.</h3>
 
 <i >&#8220;“Train a child in the way he should go, and when he is old he will not turn from it.” Proverbs 22:6&#8221;</i><br />
 <p>&nbsp;</p>

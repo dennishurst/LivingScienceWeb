@@ -25,7 +25,7 @@
     void Session_Start(object sender, EventArgs e) 
     {
         // Code that runs when a new session is started
-        Session.Add("Testimonials", Utility.PopulateTestimonials());
+        Session.Add("Testimonials", Utility.PopulateTestimonials(Server.MapPath("/site/App_Data")));
     }
 
     void Session_End(object sender, EventArgs e) 

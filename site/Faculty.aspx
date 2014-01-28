@@ -19,7 +19,18 @@
                                         <div class="caption">
                                             <strong>Sunshine Black <br />
                                             Collections with Connections, Complexities of Creation, and 4th &amp; 5th Science</strong>
-                                            <p>words to tell about Sunshine</p>
+                                            <p>
+                                            
+                                            When I was a child I found a particular verse in the Bible very funny. Psalm 34:8 tells us to &quot;Taste and 
+                                            see that The Lord is good!&quot;  What?! How does one taste the Lord? As you know, young children have a 
+                                            tendency to be very literal. I just couldn&#39;t imagine what the Lord would taste like, and why I would want 
+                                            to taste him. </>
+                                            <p>I love what Matthew Henry said in his commentary, &quot;Let God&#39;s goodness be rolled under the tongue as a sweet morsel.&quot;
+                                            Science is one of the many morsels God has given to us in order that we might taste His goodness! It is my joy to lead your 
+                                            child to &quot;taste and see that the Lord is good&quot; each week in our science class.  Along our journey together we will 
+                                            make new discoveries by seeing, touching, feeling, hearing, smelling and yes, often by tasting! We will see the fingerprint 
+                                            of our Creator, taste His goodness, and understand that it all points back to Him! 
+                                            </p>
                                         </div>
                            </div></div></li>
 
@@ -55,7 +66,13 @@
                                         <div class="caption">
                                             <strong>Dan Fisher <br />
                                             High School Technology</strong>
-                                            <p>...words about Dan...</p>
+                                            <p>I have discovered a passion for teaching; especially teaching God&#39;s word and the application of technology.  I find that 
+                                            theory without application is often boring and I seek to incorporate labs into my classes that provide practical application to 
+                                            what we are learning.  God has led me to Living Science by way of the Marine Corps and a long career with Lockheed Martin.  
+                                            I believe that my experiences as a Christian in these highly secular environments helped to prepare me for this incredible 
+                                            opportunity to teach students in the uniquely edifying atmosphere that is Living Science.  I see STEM as providing a critical 
+                                            underpinning for the understanding of the orderly nature of God&#39;s world.  I particularly enjoy the ability to work with 
+                                            students as individuals rather than as products on an assembly line.</p>
                                         </div>
                            </div></div></li>
 
@@ -91,7 +108,15 @@
                                         <div class="caption">
                                             <strong>Dennis Hurst<br />
                                             High School Engineering</strong>
-                                            <p>...words about Dennis</p>
+                                            <p>Our children are growing up in America where the job market is challenging and competition is 
+                                            going to increase.  At the same time American ingenuity is as in demand as it has ever been.   
+                                            May of the occupations that will continue to be fun, challenging, and provide a career 
+                                            path that will last a lifetime are in the Engineering and Technology fields.  I have worked in 
+                                            Engineering, Application Development, and Information Security for the last 24 years and I believe 
+                                            that our children have an amazing opportunity to enter a great career field.  I am honored to be 
+                                            able to teach High School Engineering one day a week and give our students an introduction to what 
+                                            engineering is and to show them how their Christian faith can be part of a technical career.   
+                                            </p>
                                         </div>
                            </div></div></li>
 
@@ -164,7 +189,13 @@
                                         <div class="caption">
                                             <strong>Angela Tow<br />
                                             Honors Algebra</strong>
-                                            <p>...words from Angela...</p>
+                                            <p>Being part of the Living Science family is so much more than top-notch academics.  Developing the students spiritually and giving them opportunities to excel is the priority.  Honors Algebra 1 gives the students a strong foundation for their high school and college experience.  I love guiding the students through the &quot;foreign language&quot; that is Algebra.  After graduating from Auburn University in 1995 with a B.S. In Secondary Education Mathematics, I taught public school in Alabama and Georgia.  I now enjoy homeschooling my own three children and the students I am blessed with at Living Science.
+                                                &quot;And may you have the power to understand, as all God&#39;s people should, how wide, how long, how high, and how deep his love is. (Ephesians 3:18)&quot;.
+
+                                            
+                                            
+                                            
+                                            </p>
                                         </div>
                            </div></div></li>
                             
@@ -172,26 +203,14 @@
                         </ul>
                  </article>
 
-             <article class="span4 testim-box">
-            <h3>Testimonials</h3>
-            <blockquote>
-            <div>
-            <p>&ldquo;... In justo est, sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus rutrum odio at rhoncus. Pel lentesque vitae tortor id neque fermentum pretium. Maecenas ac lacus ut neque rhoncus ...&rdquo;</p>
-            <em></em>
-            </div>
-            <p><span>Jessica Priston</span></p>
-            <a href="#">www.demolink.org</a>
-            </blockquote>
+             
 
-            <blockquote>
-            <div>
-            <p>&ldquo;... In justo est, sollicitudin eu scelerisque pretium, placerat eget elit. Praesent faucibus rutrum odio at rhoncus. Pel lentesque vitae tortor id neque fermentum pretium. Maecenas ac lacus ut neque rhoncus ...&rdquo;</p>
-            <em></em>
-            </div>
-            <p><span>Jessica Priston</span></p>
-            <a href="#">www.demolink.org</a>
-            </blockquote>
+             <article class="span4 pull-right testim-box">
+            <asp:Literal ID="litTestimonials" runat="server"></asp:Literal>
         </article>
+
+            
+            
 
 
          </div>

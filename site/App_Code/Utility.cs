@@ -21,7 +21,7 @@ public class Utility
     // TODO: Add constructor logic here
     //
 
-    public static Dictionary<string,Testimonial> PopulateTestimonials()
+    public static Dictionary<string,Testimonial> PopulateTestimonials(string sAppPath)
     {
 
         Dictionary<string,Testimonial> aTestimonials = new Dictionary<string,Testimonial>();
@@ -29,7 +29,7 @@ public class Utility
 
 
         //Load xml
-        XDocument xdoc = XDocument.Load("D:\\GitHub\\LivingScienceWeb\\site\\App_Data\\Testimonials.xml");
+        XDocument xdoc = XDocument.Load(sAppPath +   "\\Testimonials.xml");
 
         var testimonials = from r in xdoc.Descendants("Testimonial")
                            select new
@@ -92,7 +92,7 @@ public class Utility
 
         MailMessage oMsg = new MailMessage("donotreply@ascdi.com", "office@livingscience.com");
         oMsg.CC.Add("dennis.hurst@outlook.com");
-        oMsg.CC.Add("lancedavis@livingscience.com");
+        //oMsg.CC.Add("lancedavis@livingscience.com");
         oMsg.Subject = "Application request - Living Science Web";
         oMsg.Body = sBody;
         oMsg.IsBodyHtml = false;

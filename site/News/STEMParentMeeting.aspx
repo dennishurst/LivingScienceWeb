@@ -18,6 +18,12 @@
         <div class="container">
             <div class="row">
                 <article class="span8 thumb-pad6">
+                        
+                        <center>
+                        <p><a href="http://www.nationalchristian.com/donationredirect?org=1&aid=211376" target="_new"><img title="" src="/site/img/MakeADonation.jpg"/></a></p>
+
+                        </center>
+
                         <h3>STEM Parent Meeting</h3>
                         <ul class="list6">
                             <li>
