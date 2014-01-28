@@ -11,11 +11,11 @@
     {
         if (Utility.SendMail(Request))
         {
-            Response.Redirect("ThankYou.aspx");
+            Response.Redirect("/site/ThankYou.aspx");
         }
         else
         {
-            Response.Redirect("Error.aspx");
+            Response.Redirect("/site/Error.aspx");
         }
 
     }
