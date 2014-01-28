@@ -22,9 +22,8 @@ table.MsoTableGrid
     <p>New Enrollment</p>
    <p>Please Note:</p>
    <ul>
-   <li>STEM pricing for 2013-2014 offers a substantial discount over the individual pricing of 
-Science, Technology/Engineering, and Math </li>
-    <li>	Families can substitute another class for the math portion of the STEM bundle. (see below) </li>
+   <li>STEM pricing for 2014-2015 offers a substantial discount over the individual pricing of Science, Technology/Engineering, and Math</li>
+    <li>Families can substitute another class for the math portion of the STEM bundle. (see below) </li>
 </ul>
 <p>Individual Elementary and Middle School Pricing:</p>   
 
@@ -35,8 +34,9 @@ Science, Technology/Engineering, and Math </li>
 <tr><td>Class Name</td><td>Individual class rates</td><td>Comments</td></tr>
 <tr><td>K thru 1st Club</td><td>$490</td><td>&nbsp;</td></tr>	
 <tr><td>2nd and 3rd Club</td><td>$520	</td><td>&nbsp;</td></tr>
-<tr><td>4th & 5th STEM</td><td>$1485</td><td>	Includes field trip fee</td></tr>
-<tr><td>6th , 7th & 8th STEM</td><td>$1995</td><td>	 Includes expedition fee</td></tr><tr><td>Science-(6th, 7th and 8th grades)</td><td>$1280	</td><td>&nbsp;</td></tr>
+<tr><td>4th STEM</td><td>$1385</td><td>	&nbsp;</td></tr>
+<tr><td>5th STEM</td><td>$1485</td><td>	Includes field trip fee</td></tr>
+<tr><td>6th , 7th & 8th STEM</td><td>$1995</td><td rowspan="2">	 Includes expedition fee</td></tr><tr><td>Science-(6th, 7th and 8th grades)</td><td>$1280	</td></tr>
 <tr><td>Intro or Intermediate Math</td><td>$590	</td><td>&nbsp;</td></tr>
 <tr><td>Algebra (1st year of 2)</td><td>	$640	</td><td>&nbsp;</td></tr>
 <tr><td>English (4th thru 8th grades), GA History,  Spanish, Latin or Speech & Drama</td><td>$590	</td><td>&nbsp;</td></tr>
@@ -51,9 +51,10 @@ Science, Technology/Engineering, and Math </li>
   
 <table border="1px">
 <tr><td>Name</td><td>STEM Tuition</td><td>1st extra class</td><td>2nd extra class</td><td>3rd , 4th extra classes</td><td>Total</td></tr> 
-<tr><td>4th & 5th  STEM</td><td>$1485</td><td>$440</td><td>n/a</td><td>n/a</td><td>$1925 for STEM and one other class</td></tr> 				
-<tr><td>6th - 8th  STEM</td><td>$1995 (includes expedition fee)</td><td>$505</td><td>$420</td><td>$345</td><td>$3256 For 6 class bundle:
-STEM & 3 other</td></tr> 
+<tr><td>4th STEM</td><td>$1385</td><td>$440</td><td>n/a</td><td>n/a</td><td>$1825 (STEM + 1) </td></tr> 
+<tr><td>5th STEM</td><td>$1485</td><td>$440</td><td>n/a</td><td>n/a</td><td>$1925 (STEM + 1)</td></tr> 				
+<tr><td>6th - 8th  STEM</td><td>$1995 (includes expedition fee)</td><td>$505</td><td>$420</td><td>$345</td><td>$3265 (STEM + 3) <br /> (6 classes)</td></tr> 
+<tr><td>6th- 8th Individual Pricing</td><td>$1280 (includes trip)</td><td>$590 or $640*</td><td>$505</td><td>$420</td><td>$2795 (4 classes) or <br />$2845 (4 classes)*</td></tr> 
 </table>
 <p>&nbsp;</p>
 <p>Example 1:  Intro Science ($1280) plus Spanish ($590) = $1870.  This is individual pricing.</p>

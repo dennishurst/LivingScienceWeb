@@ -17,10 +17,10 @@
 
 <table border="1px">
 <tr><td colspan="3">Individual High School Class Pricing:</td></tr>
-<tr><td>All Science Classes</td><td>$1389</td><td>Includes Senior Retreat costs</td></tr>
-<tr><td>Algebra 1 (2nd year of 2), Algebra (Honors), or Geometry</td><td>	$724</td><td rowspan="2">	Note that Math classes are not discounted when added to Science</td></tr>
-<tr><td>Algebra 2 (Honors), Trig/Stats, or Calculus (Honors)</td><td>	$834 (Twice a week)	</td></tr>
-<tr><td>Literature, Spanish, History, Technology and Engineering</td><td>	$669</td><td>	Basic discounts of 15% to 60% - see Tuition Bundle below</td></tr>
+<tr><td>All Science Classes</td><td>$1450</td><td>Includes Senior Retreat costs</td></tr>
+<tr><td>Algebra 1 (2nd year of 2), Algebra (Honors), or Geometry</td><td>	$750</td><td rowspan="2">	Note that Math classes are not discounted when added to Science</td></tr>
+<tr><td>Algebra 2 (Honors), Trig/Stats, or Calculus (Honors)</td><td>	$860 (Twice a week)	</td></tr>
+<tr><td>Literature, Spanish, History, Technology and Engineering</td><td>	$695</td><td>	Basic discounts of 14% to 55% - see Tuition Bundle below</td></tr>
 </table>
 <p>&nbsp;</p>
 
@@ -37,31 +37,30 @@
 <tr><td>Course:</td><td>Science</td><td>Math</td><td>Third Class</td><td>Fourth Class</td><td>Fifth Class</td><td>Sixth Class</td><td>Total </td></tr>
 <tr>
     <td>Cost:</td>
-    <td>$1389 <br />
+    <td>$1450 <br />
         Includes Senior Retreat costs</td>
-    <td>$724 <br />
-        (or $834 for Trig, Algebra or Calculus)	</td>
-    <td>$569 <br />
-        15% Discount</td>
-	<td>$464 <br />
-        30% Discount</td>
-	<td>$364 <br />
-        45% discount</td>
-	<td>$269 <br />
-        60% Discount</td>
-    <td>$3779 <br />
+    <td>$750 <br />
+        (or $860 for Trig, Algebra or Calculus)	</td>
+    <td>$595</td>
+	<td>$499</td>
+	<td>$399</td>
+	<td>$310</td>
+    <td>$4003 <br />
         For full course load of 6 classes and Senior Retreat </td>
     </tr>
 </table>
 <p>&nbsp;</p>
 
-<p>Example 1:  Science ($1389) plus Geometry ($724) = $2113.  Note: Second class is not discounted. </p>
+<p>Example 1:  Science ($1450) plus Geometry ($750) = $2200.  Note: Second class is not discounted.</p>
 <p>&nbsp;</p>
 
-<p>Example 2:  Science ($1389) plus Literature ($669) plus History ($569) = $2627 Note: Third class is discounted.</p>
+<p>Example 2:  Science ($1450) plus Literature ($695) plus History ($595) = $2644 Note: 3rd class is discounted.</p>
 <p>&nbsp;</p>
 
-<p>Example 3: Science ($1389) plus Algebra 1 ($724) plus History ($569) plus Spanish ($464) plus Engineering (364) for a total of $3510 for 5 classes. Note: Third thru fifth classes are discounted.</p>
+<p>Example 3: Science ($1450) plus Algebra 1 ($750) plus Engineering ($595) plus Spanish ($499) plus History (399) for a total of $3693 for 5 classes. Note: Third thru fifth classes are discounted.</p>
+<p>&nbsp;</p>
+
+<p>Example 4 STEM: Science ($1450) plus Algebra 1 ($750) plus Engineering ($595) plus Technology ($499) plus English (399) plus Spanish (310) with Discount of $100 for STEM: for a total of $3903.</p>
 <p>&nbsp;</p>
 
 <p>New Student Enrollment Fee:  High School 9th – 12th grades, $225.</p>
