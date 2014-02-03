@@ -35,6 +35,8 @@
             <tr><td>Your Email (*) </td><td><input type="text" name="your-email" value="" size="40" /></td></tr>
             <tr><td>Grade Level of Child</td><td><input type="text" name="your-grade" value="" size="40" /></td></tr>
             <tr><td>Your Message</td><td><textarea name="your-message" cols="40" rows="10"></textarea></td>
+            <tr><td>&nbsp;</td><td><asp:Button ID="cmdSubmit" runat="server" Text="Submit" 
+                            onclick="cmdSubmit_Click"></asp:Button></td></tr>
             </tr>
             </table>
 

@@ -12,4 +12,16 @@ public partial class OpenHouse : System.Web.UI.Page
         System.Collections.Generic.Dictionary<string, Testimonial> aTestimonials = (System.Collections.Generic.Dictionary<string, Testimonial>)Session["Testimonials"];
         litTestimonials.Text = Utility.GetTestimonials(ref aTestimonials);
     }
+
+    protected void cmdSubmit_Click(object sender, EventArgs e)
+    {
+        if (Utility.SendMail(Request))
+        {
+            Response.Redirect("ThankYou.aspx");
+        }
+        else
+        {
+            Response.Redirect("Error.aspx");
+        }
+    }
 }
