@@ -32,7 +32,7 @@
                                             <strong>News &amp; Events</strong>
                                             <p>...News &amp; Events.</p>
                                             
-                                            <a href="/site/News.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                                            <a href="/site/News/NewsIndex.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
                                         </div>
                                     </div>
                                 </div>

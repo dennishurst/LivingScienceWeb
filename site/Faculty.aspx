@@ -185,7 +185,7 @@
                            </div></div></li>
 
                            <li><div class="thumb-pad5"><div class="thumbnail">
-                                        <figure><img src="img/LS/NeedPicture.jpg" alt=""></figure>
+                                        <figure><img src="img/LS/AngelaTow.jpg" alt=""></figure>
                                         <div class="caption">
                                             <strong>Angela Tow<br />
                                             Honors Algebra</strong>

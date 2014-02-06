@@ -104,7 +104,7 @@
                                       </li>
                                       <li class="sub-menu"><a href="/site/Events.aspx">Events<span></span></a>
                                         <ul>
-                                            <li><a href="/site/News.aspx">News &amp; Events</a></li>
+                                            <li><a href="/site/News/NewsIndex.aspx">News &amp; Events</a></li>
                                             <li><a href="/site/News/STEMParentMeeting.aspx">Building Fund</a></li>
                                             <li><a target="_new" href="http://www.flickr.com/photos/77530465@N02/">Photo Gallery</a></li>
                                             <li><a target="_new"  href="http://blog.livingscience.com/">Blog</a></li>
