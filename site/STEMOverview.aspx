@@ -7,22 +7,47 @@
         litTestimonials.Text = Utility.GetTestimonials(ref aTestimonials);
     }
 </script>
-
-<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
-<title>STEM Overview</title>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <title>STEM Overview</title>
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
-
-
-<div class="main">
-    <div class="gradient1">
-        <!--content-->
-        <div class="container">
-            <div class="row">
-                <article class="span8 thumb-pad6">
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    <div class="main">
+        <div class="gradient1">
+            <!--content-->
+            <div class="container">
+                <div class="row">
+                    <article class="span8 thumb-pad6">
   
 
 <h3>STEM Overview</h3>
+
+<p>Preparing students to face the challenges of the Information Age is an important responsibility faced by educators throughout the world. STEM Programs have been developed to address this need, and their popularity is growing.</p>
+
+
+<img src="img/LS/STEMBridge.png" />
+
+<h3>The Living Science STEM Advantage</h3>
+
+<p>
+    <ul>
+        <li>Classes are hands on, with immediate application of learning through design and building projects.   Our open campus and academic freedom allow for construction of many unusual projects, such as:</li>
+            <ul>
+                <li>Rube Goldberg devices</li>
+                <li>Giant trebuchets and bridges</li>
+                <li>Scale model structures</li>
+                <li>Software development</li>
+            </ul>
+        <li>Our students participate in meaningful projects used by scientists in real applications, like dune habitat studies used by the Department of Natural Resources, and mangrove tree studies for the University of Florida.</li>
+        <li>Students get out of the classroom and travel to natural environments like the Gulf Coast, Georgia Barrier Islands, and the Okefenokee Swamp to conduct research and experiments that bring learning to life.</li>
+        <li>Guest speakers from industry give students insight into on-the-job use of skills learned.</li>
+    </ul>
+
+</p>
+
+
+
+<h3>FAQ</h3>
+
 <p><strong>What STEM curriculum does Living Science follow from 4th grade thru high school?</strong></p>
 <p>4th and 5th graders learn how to play with a variety of materials as they explore interactions between them.  They learn computer basics and develop workable skills to help them in middle school.
 6th, 7th and 8th graders build structures and learn engineering basics all the time working in groups to solidify the basic need to develop TEAM solutions.  They also continue their computer technology basics that allow them to enter high school ready to use the tools without further instruction.
@@ -50,16 +75,11 @@
 
                         
                  </article>
-             
-             <article class="span4 pull-right testim-box">
+                    <article class="span4 pull-right testim-box">
                 <asp:Literal ID="litTestimonials" runat="server"></asp:Literal>
             </article>
-         </div>
+                </div>
+            </div>
+        </div>
     </div>
-    </div>
-</div>
-
-
-
 </asp:Content>
-

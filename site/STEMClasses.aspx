@@ -28,13 +28,23 @@
                 <a href="#math" class="btn btn-primary"><span>Math</span><img src="img/more_arrow.png" alt=""></a>
 
 
-                        <h2>Stem Classes</h2>
                         
-                        <h2>STEM 4th - 8th</h2>
 
-<p>Each section covers Science, Technology, Engineering, and Mathematics for that grade level. For more information, see the STEM brochure.</p>
+                <a name="science"><h3>Science</h3></a>
 
-<a name="science"><h3>Science</h3></a>
+
+
+                <p>&nbsp;</p>
+                        <p><strong>K - 1st Grade Club:</strong></p>
+                        <p>An introductory science club examining areas of science with the goal of teaching students to assemble collections of data and begin to make connections between those data points.  The course operates on a two-year rotation to allow students to retake the course without undue repetition.</p>
+                        <p>&nbsp;</p>
+                        <p><strong>2nd and 3rd grade Club:</strong></p>
+                        <p>An intermediate science club examining different natural cycles with the goal of demonstrating the complexity of God’s creation.  The course operates on a two-year rotation to allow students to retake the course without undue repetition.</p>
+                        <p>&nbsp;</p>
+                        
+                        <p><strong>4th &amp; 5th</strong></p>
+                        <p></p>Introduces general science concepts in the context of a Biblical Worldview that supports God as the sole author of Creation but also describes a world which displays the effects of sin. In-depth studies will include simple animal classification, the solar system, weather systems, and landforms with an emphasis on rocks and volcanoes.  Critical thinking skills will be sharpened as students study introductory life science concepts that clearly define the difference between animal anatomy and physiology and humans, who are made in God’s image. Students also see God’s fingerprint in Marine animals.</p>
+
 
 <p>&nbsp;</p>
 <p><strong>6th</strong></p>
@@ -128,10 +138,17 @@ integration of algebra and geometry; and applications of geometry. During the ye
 <p>Trigonometry</p>
 <p>This course of study is for students who have completed Algebra II. Previous experience with Trigonometry is helpful, but not a prerequisite. We will work on many concepts that are included on the SAT and ACT exams, as well as college placement exams. Up-to-date data is used for applications to show students when they will use math in their lives. They will examine data such as population growth. They plot points, look for patterns and trends in graphs, and write linear, quadratic, polynomial, exponential, logarithmic, and trigonometric equations to reflect the data.</p>
 
+<a name="engineering">&nbsp;</a>
+<a name="technology"><h3>Technology &amp; Engineering</h3></a> 
 
-<a name="technology"><h3>Technology</h3></a> 
+<p>&nbsp;</p>
+<p><strong>Middle School Technology:</strong></p>
+<p>Technology students will learn the basics of communication, computer hardware and operating systems. Additionally, students will learn how to display their imagination with photo editing and 3D graphic software. They will learn system design and programming skills along with word processing, systems software and presentation software.</p>
+<p>&nbsp;</p>
 
-<p>Middle School Elective</p>
+<p><strong>Middle School Engineering:</strong></p>
+<p>This is an active hands on series of classes which allows students to read texts and do research at home, while doing labs at school.  Subjects include Introduction to engineering, the engineering and design process, prototypes and modeling, materials and fabrication, civil engineering, biomedical engineering, chemical engineering, specialty engineering, and mechanical engineering.</p>
+<p>&nbsp;</p>
 
 <p><strong>Robotics Club (ages 9-14)</strong>
 <p>This club competes in the First Lego® League. Students learn how to design and program a robot to perform specific tasks. They also prepare a technical presentation and a group project as part of the competition.</p>
@@ -139,21 +156,37 @@ integration of algebra and geometry; and applications of geometry. During the ye
 <p>&nbsp;</p>
 <p><strong>High School</strong></p>
 <p>&nbsp;</p>
-<p>HS Technology 1</p>
-<p>This course gives students a thorough understanding of how computers work individually and collectively within a network. Students will explore emerging computing technology and be introduced to a variety of computer applications. Students will gain an in-depth knowledge of Microsoft Office, including MS Access.</p>
+
+<p><strong>Engineering and Tech classes: Every Year</strong></p> 
+<ul>
+    <li>Intro To Engineering</li>
+    <li>Intro To Technology  - High level overview of how 24 different kinds of technology work</li>
+    <li>Senior Project -  Concept: Students that have taken one or more of the advanced computer science or technology classes  will design, build, document and demonstrate a major project (software or hardware)</li>
+</ul>
+	
+
+<p><strong>2 Year Cycle</strong></p>
+<p>&nbsp;</p>
+
+<p><strong>Year 1 Options</strong></p>
+<ul>
+    <li>Computer Science / programming: this would introduce students to computer programming in one or two languages.</li>
+    <li>Audio Engineering & Technology</li>
+    <li>Electronics Engineering & Technology</li>
+</ul>
 
 <p>&nbsp;</p>
 
-<p>Audio Technology</p> 
-<p>Topics will include: What is sound? Sound & range of human hearing, Recording and storing sound patterns, Microphones, Frequency response of audio components, Audio information storage methods, Reproducing and Amplifying Sound, Amplifiers and classes of amplifiers, Fidelity & Distortion, Speaker types and characteristics, Mixing inputs & Sound reinforcement.</p>
+<p><strong>Year 2 Options</strong></p>
+<ul>
+    <li>Advanced Computer Science & programming: Advanced programming topics - like mobile, web services and services oriented architecture.  Functional and performance testing of software, application security concepts, and virtualization.</li>
+    <li>Communications Engineering & Technology (could lead to Amateur Radio license)</li>
+    <li>Computer Aided Design (CAD)</li>
+    <li>Microcontroller Engineering & Technology.</li>
+</ul>
 
 
 
-<a name="engineering"><h3>Engineering</h3></a>
-
-<p>HS Engineering</p>
-<p>This course is an introduction to civil, electrical, mechanical, environmental, engineering, with
-hands-on components.</p>
 
 
 

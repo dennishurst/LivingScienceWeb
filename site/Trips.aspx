@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="Trips.aspx.cs" Inherits="Trips" %>
 
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 <title>Trips &amp; Expeditions</title>
 </asp:Content>
@@ -27,6 +28,10 @@
 </ul>
 <p>&nbsp;</p>
 
+<center><img src="img/LS/Expedition_beach.png" /></center>
+
+
+<p>&nbsp;</p>
 <p><strong>High School Students</strong> go on a <strong>Senior Retreat</strong> each fall to a location within a day’s drive of Living Science. The location varies from year to year, but has typically been to a coastal area.</p>
 <ul>
     <li><em><strong>Science</strong></em> – Students conduct sophisticated science experiments and activities that prepare them for college science classes and labs, while being true to a Biblical view of science.</li>

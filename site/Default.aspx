@@ -24,7 +24,7 @@
                 <li><a href="/site/STEMClasses.aspx#technology">Technology</a></li>
                 <li><a href="/site/STEMClasses.aspx#engineering">Engineering</a></li>
                 <li><a href="/site/STEMClasses.aspx#math">Math</a></li>
-                <li><a href="VideoPlayer.aspx?VideoID=4s-ea0F0wIo">What we believe</a></li>
+                <li><a href="WhatWeBelieve.aspx">What we believe</a></li>
                 <li><a href="VideoPlayer.aspx?VideoID=3axUWMcTSkk">Overview</a></li>
                 <li><a href="/site/News/NewsIndex.aspx">STEM Awards</a></li>
                 <li><a href="https://www.renweb.com/rwlogin/ParentsWeb-Login.aspx?District=LS-GA">RenWeb Login</a></li>

@@ -29,6 +29,15 @@
                         <ul class="list6"><li><div class="thumb-pad5"><div class="thumbnail">
                             <figure><img src="img/LS/NeedPicture.jpg" alt=""></figure>
                             <div class="caption">
+                                <strong>What We Believe</strong>
+                                <p>We believe children are rare and precious commodities, to be handled with extreme care.</p>
+                                <a href="/site/WhatWeBelieve.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
+                            </div>
+                        </div></div></li></ul>
+
+                        <ul class="list6"><li><div class="thumb-pad5"><div class="thumbnail">
+                            <figure><img src="img/LS/NeedPicture.jpg" alt=""></figure>
+                            <div class="caption">
                                 <strong>More about our approach</strong>
                                 <p>To learn more about our approach to education at Living Science click the "Read More" button below.</p>
                                 <a href="/site/OurApproachMore.aspx" class="btn btn-primary"><span>Read more</span><img src="img/more_arrow.png" alt=""></a>
