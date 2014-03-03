@@ -55,9 +55,14 @@
                            <li><div class="thumb-pad5"><div class="thumbnail">
                                         <figure><img src="img/LS/lvx_teachers_dingly.jpg" alt=""></figure>
                                         <div class="caption">
-                                            <strong>Beverly Dingley <br />
-                                            Spanish, Speech and Drama</strong>
-                                            <p>Going out and visiting the world is grand fun and being able to communicate while traveling is a definite plus.  This is one reason why I want to pass on my love for Spanish to my students.  I have been blessed to travel to Spain, Peru, and Honduras.    In Spanish at Living Science we learn how to share the gospel in Spanish, giving the students the ability to speak the<em> most </em>important vocabulary &#8212; the life-giving words of Truth. When I attend church services, college recruitment events, or my children&#8217;s sports banquets, I see the need for the public speaking skills that Spanish and Drama nurture. I love helping each student that comes through the classroom door grow in their ability and partnering with home school parents to educate their children. Teaching at Living Science has been a huge blessing in my life!</p>
+					    <strong>Beverly Dingley <br />
+					    Spanish, Speech, and Drama</strong>
+					        <p>Being on staff at Living Science allows me to pass on a love of learning and passion to my students. For me, it is easy to get 
+                            passionate about Spanish since I have had the fun of visiting Spain, Peru, and Honduras. Being able to communicate while traveling 
+                            is a huge motivator!  We have the added benefit of a large Hispanic community that gives plenty of opportunity to speak in Spanish 
+                            right where we live. Students are given CDs with songs, dialogues, and readings so they hear the language apart from class.  It is 
+                            wonderful when students tell me stories of how they have used the language!</p>
+                            <p>In the realm of Speech and Drama, it is a great experience to take kids ages 12 – 17, many of whom have never met each other, and forge them into a team. Our class becomes a team that helps each person improve in their speaking and acting skills. Over the course of the year, even students that seemed practically mortified to speak aloud in a group become more confident. Day to day life provides constant reminders of the need for public speaking skills: church services, college recruitment events, and sports banquets, to name a few. I love seeing my students stand tall, make eye contact, and articulate their opinions with passion!</p>
                                         </div>
                            </div></div></li>
 
@@ -171,7 +176,14 @@
                                         <div class="caption">
                                             <strong>Joel Spiess<br />
                                             Living Sound Director</strong>
-                                            <p>...words from Joel...</p>
+                                            <p>The Psalmist writes in Psalm 103:1, &quot;Bless the Lord, O my soul; And all that is within me, bless His holy name.&quot;  
+                                            Sincere worship is a priority at Living Science.  It is my goal to equip the singers and instrumentalists of &quot;Living Sound&quot; 
+                                            to lead their fellow students to God’s throne using music. Our rehearsals focus on the essential elements of music as well 
+                                            as the preciousness of being &quot;lead worshippers.&quot;</p>
+                                            
+                                            <p>My roots are in northwest Ohio on a dairy and chicken farm.  I graduated from Spring Arbor College with a major in Elementary Education
+                                            and a minor in music.  I have served various churches in differing music capacities over the past decades.  I currently attend First Baptist 
+                                            Church Woodstock where my wife, Robin, and I are active choir members.  All three of our children attend Living Science.</p>
                                         </div>
                            </div></div></li>
 
