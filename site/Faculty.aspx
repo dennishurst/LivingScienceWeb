@@ -166,13 +166,13 @@
                                         <figure><img src="img/LS/lvx_teachers_salters.jpg" alt=""></figure>
                                         <div class="caption">
                                             <strong>Terri Salter<br />
-                                            High School English, Chemistry, Physical Science</strong>
+                                            Elementary and Middle School English</strong>
                                             <p>God has given me the privilege of teaching elementary and middle school English at Living Science, and I praise Him for such a wonderful opportunity.  It is, and always has been, my heart’s desire to influence students to grow in their relationship with Him.  Believe it or not, it is possible to do it through grammar and writing.  My husband and I homeschooled our son through the twelfth grade, so I have a very special love for home school families.  God has used that experience along with my bachelor’s degree to give me a passion for teaching.   It is an amazing thing to be able to read, but how much more amazing is it to be able to understand the Word of God by understanding the grammar,  punctuation, and types of literature that give our language meaning.</p>
                                         </div>
                            </div></div></li>
 
                            <li><div class="thumb-pad5"><div class="thumbnail">
-                                        <figure><img src="img/LS/NeedPicture.jpg" alt=""></figure>
+                                        <figure><img src="img/LS/JoelSpiess.jpg" alt=""></figure>
                                         <div class="caption">
                                             <strong>Joel Spiess<br />
                                             Living Sound Director</strong>
