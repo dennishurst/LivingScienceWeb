@@ -9,9 +9,15 @@
 <div class="main">
 <section class="container padTop">
     <div class="row">
+        <article class="span12 slider ">
+            <p><strong><a href="OpenHouse.aspx">Open House Dates:</a></strong> Mar. 4 & 18, April 1 & 29, May 27  <em> (All Open Houses begin at 7pm)</em> <a href="OpenHouse.aspx">..more..</a></p>
+        </article>
+    </div>
+    
+    
+    <div class="row">
         <article class="span9 slider pull-right">
             <div class="camera_wrap">
-             <div data-src="img/FrontPage/PardonOurDust.jpg" ></div>
              <div data-src="img/FrontPage/Island.jpg" ></div>
              <div data-src="img/FrontPage/picture1LS.jpg"></div>
              <div data-src="img/FrontPage/DolphinSplash.jpg"></div>

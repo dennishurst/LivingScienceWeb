@@ -15,7 +15,8 @@
 
 <h3>Field Trips &#038; Expeditions</h3>
 
-<i >&#8220;And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.&#8221; Romans 12:2 (NKJV)</i><br />
+<asp:Literal ID="litCountDown" runat="server"></asp:Literal>
+
 <p>&nbsp;</p>
 
 <p><strong>Middle School Students</strong> go on a <strong>Science Expedition</strong> to the Georgia coast each spring. The trip features the following:</p>
